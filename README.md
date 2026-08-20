@@ -1,31 +1,39 @@
-# Smart Campus Complaint System
+# 👋 Hi, I'm Gagan G
 
-A web-based campus complaint management system that allows students to report campus issues, upload supporting photos, track complaint status, and view recent complaints in an organized dashboard.
+## About Me
 
-## 🚀 Project Overview
+I am a Computer Science and Engineering student at Acharya Institute of Technology, Bengaluru, with a strong interest in software development and full-stack web development.
 
-The Smart Campus Complaint System is designed to make it easier for students to report problems related to classrooms, laboratories, internet connectivity, electrical equipment, cleanliness, and other campus facilities.
+I enjoy building real-world applications that solve practical problems and continuously improving my programming and problem-solving skills. I have experience working with Java, JavaScript, React.js, HTML, CSS, Node.js, and databases, along with core computer science concepts such as OOP, DBMS, and Operating Systems.
 
-The system provides a centralized platform where complaints can be submitted with important details such as location, category, priority, description, and a related photo.
+I am currently focused on strengthening my development skills by building practical projects and learning how different technologies work together to create complete software applications.
 
-## ✨ Features
+---
 
-- Submit campus complaints through an online form
-- Add complaint title and location
-- Select complaint category and priority
-- Add a detailed problem description
-- Upload a photo related to the complaint
-- View recent complaints
-- Track complaint status
-- Dashboard showing:
-  - Total complaints
-  - Pending complaints
-  - In-progress complaints
-  - Resolved complaints
-- Form validation to prevent empty submissions
-- Responsive and user-friendly interface
+# 🚀 Smart Campus Complaint System
 
-## 🛠️ Technologies Used
+A web-based campus complaint management system designed to help students report campus problems, provide complaint details and supporting photos, and track the status of reported issues.
+
+## 📌 Problem
+
+Campus problems such as broken equipment, internet issues, electrical problems, and cleanliness issues can be difficult to report and track using traditional methods.
+
+This project aims to provide a centralized platform for reporting and managing these complaints.
+
+## ✨ Current Features
+
+- 📝 Submit campus complaints
+- 📍 Add the exact complaint location
+- 🏷️ Select complaint category
+- ⚡ Set complaint priority
+- 📄 Add a detailed problem description
+- 📷 Upload a complaint-related photo
+- 📊 View complaint statistics
+- 🔄 Track complaint status
+- 🗂️ View recent complaints
+- ✅ Form validation
+
+## 🛠️ Technologies
 
 ### Frontend
 - React.js
@@ -40,18 +48,23 @@ The system provides a centralized platform where complaints can be submitted wit
 ### Database
 - MySQL
 
-### Development Tools
-- Visual Studio Code
+### Tools
+- VS Code
 - Git
 - GitHub
 
-## 🏗️ Project Architecture
+## 🏗️ Planned Architecture
 
 ```text
-React.js Frontend
-        ↓
-    REST API
-        ↓
-  Spring Boot
-        ↓
-      MySQL
+                Smart Campus
+                     │
+                     ▼
+              React Frontend
+                     │
+                 REST API
+                     │
+                     ▼
+              Spring Boot
+                     │
+                     ▼
+                  MySQL
