@@ -1,74 +1,150 @@
-# 👋 Hi, I'm Gagan G
+# Hi 👋, I'm Gagan G
 
-## About Me
+### Computer Science & Engineering Student | Aspiring Software Developer
 
-I am a Computer Science and Engineering student at Acharya Institute of Technology, Bengaluru, with a strong interest in software development and full-stack web development.
-
-I enjoy building real-world applications that solve practical problems and continuously improving my programming and problem-solving skills. I have experience working with Java, JavaScript, React.js, HTML, CSS, Node.js, and databases, along with core computer science concepts such as OOP, DBMS, and Operating Systems.
-
-I am currently focused on strengthening my development skills by building practical projects and learning how different technologies work together to create complete software applications.
+**Java • JavaScript • React.js • Node.js • Spring Boot • MySQL • DSA**
 
 ---
 
-# 🚀 Smart Campus Complaint System
+## 💻 About Me
 
-A web-based campus complaint management system designed to help students report campus problems, provide complaint details and supporting photos, and track the status of reported issues.
+- 🎓 Computer Science & Engineering student
+- 💻 Aspiring Software Developer
+- 🌐 Interested in Full Stack Development
+- ☕ Practicing Java and Data Structures & Algorithms
+- ⚛️ Building applications using React.js
+- 🚀 Learning backend development with Node.js and Spring Boot
+- 🗄️ Working with MySQL and databases
+- 🧩 Interested in solving real-world problems through software
+- 📈 Preparing for software development placements
+- 🏐 Love playing volleyball
 
-🔗 **GitHub Repository:** [Smart_Campus_Complaints](https://github.com/Gagang83/Smart_Campus_Complaints)
+---
 
-A web-based campus complaint management system designed to help students report campus problems, provide complaint details and supporting photos, and track the status of reported issues.
+## 🛠️ Tech Stack
 
-## 📌 Problem
-
-Campus problems such as broken equipment, internet issues, electrical problems, and cleanliness issues can be difficult to report and track using traditional methods.
-
-This project aims to provide a centralized platform for reporting and managing these complaints.
-
-## ✨ Current Features
-
-- 📝 Submit campus complaints
-- 📍 Add the exact complaint location
-- 🏷️ Select complaint category
-- ⚡ Set complaint priority
-- 📄 Add a detailed problem description
-- 📷 Upload a complaint-related photo
-- 📊 View complaint statistics
-- 🔄 Track complaint status
-- 🗂️ View recent complaints
-- ✅ Form validation
-
-## 🛠️ Technologies
-
-### Frontend
-- React.js
+### Languages
+- Java
 - JavaScript
+- C++
+- SQL
 - HTML
 - CSS
 
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
 ### Backend
+- Node.js
 - Spring Boot
-- REST API
+- REST APIs
 
 ### Database
 - MySQL
 
-### Tools
-- VS Code
+### Tools & Technologies
 - Git
 - GitHub
+- VS Code
+- Eclipse
+- Maven
+- JDBC
 
-## 🏗️ Planned Architecture
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
 
-```text
-                Smart Campus
-                     │
-                     ▼
-              React Frontend
-                     │
-                 REST API
-                     │
-                     ▼
-              Spring Boot
-                     │
-                     ▼
-                  MySQL
+---
+
+## 🚀 Projects
+
+### 🏫 Smart Campus Complaint System
+
+A full-stack web application for reporting and managing campus complaints.
+
+**Features:**
+- 📝 Submit campus complaints
+- 📍 Specify complaint location
+- 🏷️ Select complaint category
+- ⚡ Set complaint priority
+- 📷 Upload complaint-related photos
+- 📊 View complaint statistics
+- 🔄 Track complaint status
+- 🗂️ View recent complaints
+
+**Tech Stack:** React.js, Spring Boot, MySQL
+
+🔗 **Repository:**  
+[Smart Campus Complaint System](https://github.com/Gagang83/Smart_Campus_Complaints)
+
+---
+
+### 📋 Smart Exam Management System
+
+A system designed to automate examination scheduling, hall allocation, and seating arrangements.
+
+**Features:**
+- 🏫 Automated classroom allocation
+- 📊 Excel-based student/classroom data processing
+- 🪑 Automated seating arrangement
+- 📄 PDF seating plan generation
+- 🚫 Management of ineligible students
+- 🔐 Secure student and faculty access
+
+**Tech Stack:** Java, Java Swing, JDBC, MySQL
+
+---
+
+### 🤖 AI Resume Analyzer
+
+An AI-based application designed to analyze resumes and provide useful insights for job seekers.
+
+**Technologies:** AI/ML, NLP, JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- 🔹 Advanced Data Structures & Algorithms
+- 🔹 Full Stack Development
+- 🔹 Spring Boot & REST APIs
+- 🔹 Database Management
+- 🔹 System Design Fundamentals
+- 🔹 Software Development Practices
+
+---
+
+## 🎯 Goals
+
+- 💻 Become a strong Software Developer
+- 🧠 Improve problem-solving and DSA skills
+- 🚀 Build production-ready full-stack applications
+- 🏢 Get placed in a good software company
+- 📚 Continuously learn new technologies
+
+---
+
+## 📊 GitHub
+
+🔗 **GitHub:** [Gagan G](https://github.com/Gagang83)
+
+🔗 **Smart Campus Project:** [Smart_Campus_Complaints](https://github.com/Gagang83/Smart_Campus_Complaints)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Add your LinkedIn link here]
+- 📧 Email: [Add your email here]
+- 🐙 GitHub: [Gagang83](https://github.com/Gagang83)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+I'm always interested in learning, building, and working on interesting software projects.
