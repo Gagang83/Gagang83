@@ -14,6 +14,10 @@ I am currently focused on strengthening my development skills by building practi
 
 A web-based campus complaint management system designed to help students report campus problems, provide complaint details and supporting photos, and track the status of reported issues.
 
+🔗 **GitHub Repository:** [Smart_Campus_Complaints](https://github.com/Gagang83/Smart_Campus_Complaints)
+
+A web-based campus complaint management system designed to help students report campus problems, provide complaint details and supporting photos, and track the status of reported issues.
+
 ## 📌 Problem
 
 Campus problems such as broken equipment, internet issues, electrical problems, and cleanliness issues can be difficult to report and track using traditional methods.
