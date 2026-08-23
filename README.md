@@ -77,7 +77,7 @@ A full-stack web application for reporting and managing campus complaints.
 - 🔄 Track complaint status
 - 🗂️ View recent complaints
 
-**Tech Stack:** React.js, Node.js, Express.js, MySQL
+**Tech Stack:** React.js, Node.js, Express.js,REST APIs, MySQL
 
 🔗 **Repository:**  
 [Smart Campus Complaint System](https://github.com/Gagang83/Smart_Campus_Complaints)
