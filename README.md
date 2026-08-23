@@ -39,7 +39,7 @@
 
 ### Backend
 - Node.js
-- Spring Boot
+- Express.js
 - REST APIs
 
 ### Database
@@ -78,6 +78,7 @@ A full-stack web application for reporting and managing campus complaints.
 - 🗂️ View recent complaints
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL
+
 🔗 **Repository:**  
 [Smart Campus Complaint System](https://github.com/Gagang83/Smart_Campus_Complaints)
 
