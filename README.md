@@ -2,7 +2,7 @@
 
 ### Computer Science & Engineering Student | Aspiring Software Developer
 
-**Java • JavaScript • React.js • Node.js • Spring Boot • MySQL • DSA**
+**Java • JavaScript • React.js • Node.js • MySQL • DSA**
 
 ---
 
